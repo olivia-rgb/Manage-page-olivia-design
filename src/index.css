@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{
+    font-family: "Be Vietnam Pro", serif;
+}
+img{
+    max-width: 100%;
+}
