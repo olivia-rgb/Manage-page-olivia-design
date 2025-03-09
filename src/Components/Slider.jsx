@@ -148,7 +148,7 @@ function TestimonialSlider() {
                     <img src={item.img} alt={item.name} className="w-20 h-20 rounded-full object-cover" />
                   </div>
                   <h3 className="pt-10 mt-6 font-bold text-center">{item.name}</h3>
-                  <p className="max-w-[500px] text-center pb-5 text-[#9095a7] text-md md:text-lg">{item.text}</p>
+                  <p className="max-w-[600px] text-center pb-5 text-[#9095a7] text-sm md:text-lg">{item.text}</p>
                 </div>
               </div>
             ))}
@@ -164,7 +164,7 @@ function TestimonialSlider() {
                   <div className="avatar-container">
                     <img src={item.img} alt={item.name} className="w-20 h-20 rounded-full object-cover" />
                   </div>
-                  <h3 className="pt-10 mt-6 font-bold text-center">{item.name}</h3>
+                  <h3 className="pt-10 font-bold text-center">{item.name}</h3>
                   <p className="max-w-[500px] text-center pb-5 text-[#9095a7] text-md md:text-lg">{item.text}</p>
                 </div>
               </div>
