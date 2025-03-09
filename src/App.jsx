@@ -4,14 +4,14 @@ import Hero from './Components/Hero'
 import About from './Components/About'
 import Slider from './Components/Slider'
 import Footer from './Components/Footer'
+import Merge from './Components/Merge'
 
 
 function App() {
   return (
     
     <div className=' '>
-      <Navbar className='' />
-      <Hero />
+      <Merge />
       <About />
       <Slider />
       <div className='w-full bg-[url("/bg-simplify-section-mobile.svg")] md:bg-[url("/bg-simplify-section-desktop.svg")] bg-no-repeat bg-cover bg-center bg-[#f25f3a] py-20'>

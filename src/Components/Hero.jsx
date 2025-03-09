@@ -10,7 +10,7 @@ function Hero() {
         </div>
         <div className='flex-[1_1_350px] pt-5 md:pt-0 text-center md:text-left flex flex-col gap-6 justify-center align-center'>
             <h1 className='text-4xl md:text-6xl font-bold'>Bring everyone <br/> together to build <br/> better products </h1>
-            <p className='max-w-[380px] text-lg text-center md:text-left mx-auto md:mx-0 md:text-xl text-[#9095a7]'>Manage makes it possible for software teams to plan day to day tasks while keeping the larger team goals in view</p>
+            <p className='max-w-[380px] text-md text-center md:text-left mx-auto md:mx-0 md:text-xl text-[#9095a7]'>Manage makes it possible for software teams to plan day to day tasks while keeping the larger team goals in view</p>
             <button className='bg-[#f25f3a] text-white py-2 rounded-full w-40 mx-auto md:mx-0' >Get Started</button>
 
         </div>  
